@@ -1,6 +1,6 @@
-# 🐶 Caramelo Meme Coin
+# Caramelo Meme Coin
 
-![Caramelo Logo](./logo.png)
+![Caramelo Logo](8290F52E-275F-4E51-B032-EC53A373F861.png)
 
 **Caramelo (CARAM)** is a meme coin inspired by the legendary stray dog — the “vira-lata caramelo,” king of the streets.  
 We don’t need pedigree to be legendary. 🐾
